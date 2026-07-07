@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <!-- 可选的渐变色，赋予图标一点活力感，你也可以把这里改成纯色 -->
+        <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#34D399" />
+            <stop offset="100%" stop-color="#06B6D4" />
+        </linearGradient>
+    </defs>
+
+    <!-- 深色圆角方形背景，类似代码编辑器或现代 App 的风格 -->
+    <rect width="100" height="100" rx="20" fill="#0F172A" />
+
+    <!-- 粗体、圆角的字母 “L” -->
+    <path d="M 32 22 L 32 78 L 70 78" stroke="url(#brandGradient)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
