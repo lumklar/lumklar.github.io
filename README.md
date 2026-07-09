@@ -25,7 +25,7 @@
 
 ## 📊 GitHub 统计
 
-![lumklar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumklar&show_icons=true&theme=default)
+[![lumklar's GitHub stats](https://github-stats-extended.vercel.app/api?username=lumklar)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
